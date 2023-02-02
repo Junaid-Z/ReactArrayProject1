@@ -1,0 +1,17 @@
+.App-header {
+    padding-top: 50px;
+}
+
+.card {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(211, 211, 211, 0.3);
+    font-size: 2rem;
+    font-weight: 600;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+}
